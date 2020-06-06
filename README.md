@@ -1,5 +1,5 @@
 # bhrugen-4
-Uplift project from "Advanced ASP.NET Core 3.1 MVC (v3.1)" by Bhrugen Patel [bhrugen.com](http://bhrugen.com/)
+"Advanced ASP.NET Core 3 MVC (v3.1)" by Bhrugen Patel [bhrugen.com](http://bhrugen.com/)
 
 [Udemy](https://www.udemy.com/course/master-aspnet-core-3-advanced/)
 
